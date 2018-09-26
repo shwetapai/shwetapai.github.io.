@@ -1,6 +1,6 @@
 ---
 layout: post
-New Title:Learning Markdown
+Welcome to My World
 ---
 
 # Learning about Headings
